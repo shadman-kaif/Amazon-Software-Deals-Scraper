@@ -1,4 +1,4 @@
-# Amazon-Software-Deals-Scraper
+# Amazon Best Selling Software Deals Scraper
 
 I've always purchased my software products online from Amazon. I eventually got tired of looking for items in the later pages in Amazon.
 Thus, I created a Python webscraper using Scrapy that scrapes the best selling software titles, prices, star rating and number of reviews
